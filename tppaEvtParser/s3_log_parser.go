@@ -16,7 +16,7 @@ import (
 
 var (
 	Bucket         = "p-jp-logs"                       // Download from this bucket
-	Prefix         = "P-JP-ACK-TPPA01/ack/2016/11/01/" // Using this key prefix
+	Prefix         = "P-JP-EMGR/mod/2016/11/01/"       // Using this key prefix
 	LocalDirectory = "s3logs"                          // Into this directory
 	extractDir     = "logs"                            // Into this directory
 )
