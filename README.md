@@ -1,2 +1,2 @@
-# cnr-tppa-tool
-ACK Log parser and reporter
+# aws-log-parser
+AWS S3 Log parser and reporter
