@@ -1,6 +1,6 @@
-# cnr-tppa-tool
-ACK Log parser and reporter
+# s3-tool
+s3 Log parser and reporter
 
 To Run:
 
-./tppaEvtParser -m <month> -d <day> -l <logdir>
+./evtParser -m <month> -d <day> -l <logdir>
